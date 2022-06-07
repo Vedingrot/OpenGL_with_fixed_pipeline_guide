@@ -241,7 +241,7 @@ glFrustum(-winWidth, winWidth, -winHeight, winHeight, heapHeight, far);
 *size* имеет тип *float*.
 ##### Тип точки
 
-Тип точки самое интересное, `glEnable(GL_POINT_SMOOTH)` перед отрисовкой
+Тип точки самое интересное. `glEnable(GL_POINT_SMOOTH)` перед отрисовкой
 и `glDisable(GL_POINT_SMOOTH)`
 после отрисовки.
 
